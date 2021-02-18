@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4CMIX5WbPyfQ1qg/smsX9t6b3JSJvR1fUa26WDf8KqXCNyIsjCwTY1GDmTlbl37iKN+47FcUj3R+Cx/inV/kg==",
+  "success": true,
+  "projectFilePath": "/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/ffof.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritchie/.nuget/packages/bogus/29.0.2/bogus.29.0.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms/4.6.0.847/xamarin.forms.4.6.0.847.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

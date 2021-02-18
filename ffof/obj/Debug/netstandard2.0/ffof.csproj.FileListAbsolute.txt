@@ -1,0 +1,17 @@
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/bin/Debug/netstandard2.0/ffof.deps.json
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/bin/Debug/netstandard2.0/ffof.dll
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/bin/Debug/netstandard2.0/ref/ffof.dll
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/bin/Debug/netstandard2.0/ffof.pdb
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/Controls/BrandView.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/Views/CartPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/Views/ProductsPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.AssemblyInfoInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.AssemblyInfo.cs
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.dll
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ref/ffof.dll
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/obj/Debug/netstandard2.0/ffof.pdb

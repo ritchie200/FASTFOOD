@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNvmOfNpnwJH5e6izoL2ZtNGalpacopZA5LFerCNESf5Fk7kn0az3Mr1k1aCMKB7biAC9RN+aq2fd0CBTxrrtA==",
+  "success": true,
+  "projectFilePath": "/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof/ffof.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritchie/.nuget/packages/bogus/29.0.2/bogus.29.0.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms/4.6.0.847/xamarin.forms.4.6.0.847.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
