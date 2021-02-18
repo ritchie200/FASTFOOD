@@ -53,9 +53,9 @@
 /Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/ffof.iOS.csproj.CopyComplete
 /Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/ffof.iOS.exe
 /Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/ffof.iOS.pdb
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/FastFood/FASTFOOD/ffof.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/

@@ -1,24 +1,20 @@
 ﻿<Properties StartupConfiguration="{054D1C13-BEC4-4B86-B7BF-5A1CDCBAE384}|Default">
-  <MonoDevelop.Ide.ItemProperties.ffof.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25D65315-AC9A-419E-B200-81B04C196585" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ffof/ViewModels/MainViewModel.cs">
+  <MonoDevelop.Ide.ItemProperties.ffof.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AD0085FC-5D8B-4197-B724-E7CCA21BC2BA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ffof/MainPage.xaml">
     <Files>
-      <File FileName="ffof/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="ffof/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="ffof/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="ffof/ViewModels/CartViewModel.cs" Line="1" Column="1" />
-      <File FileName="ffof/ViewModels/MainViewModel.cs" Line="1" Column="1" />
+      <File FileName="ffof/MainPage.xaml" Line="53" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ffof" expanded="True">
             <Node name="ffof" expanded="True">
-              <Node name="ViewModels" expanded="True">
-                <Node name="MainViewModel.cs" selected="True" />
-              </Node>
+              <Node name="Controls" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True" />
               <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

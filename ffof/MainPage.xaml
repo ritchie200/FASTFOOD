@@ -50,12 +50,10 @@
                         <Label.FormattedText>
                             <FormattedString>
                                 <Span
-                                    Text="ASAP " />
-                                <Span
                                     FontFamily="Material"
                                     Text="{Static res:IconFont.ArrowRight}" />
                                 <Span
-                                    Text=" WORK" />
+                                    Text="" />
                             </FormattedString>
                         </Label.FormattedText>
                     </Label>
